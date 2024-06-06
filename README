@@ -1,0 +1,21 @@
+A tool that I use to track things I'm working on at my day job.
+
+Put it in your path:
+```
+sudo ln -s <absolute path> <somewhere in your $PATH>/support
+```
+
+Create an entry:
+```
+support
+```
+
+Show today's entries:
+```
+support show
+```
+
+Show all entries:
+```
+support show all
+```
